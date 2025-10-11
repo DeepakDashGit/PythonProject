@@ -21,8 +21,13 @@
 # 	else:
 # 		pass
 
-for i in range(10):
-	if i%2 == 0:
-		continue
-	else:
-		print(i)
+# for i in range(10):
+# 	if i%2 == 0:
+# 		continue
+# 	else:
+# 		print
+
+i = 0
+while i < 10:
+    print(i)
+    i += 1
