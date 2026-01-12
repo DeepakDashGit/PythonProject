@@ -9,5 +9,7 @@ print(c)
 c = c - 10
 print(c)
 
+d = 10 + 34 * 3 - 1
+print(d)
 
 
