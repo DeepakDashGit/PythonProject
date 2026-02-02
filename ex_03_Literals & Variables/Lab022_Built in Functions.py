@@ -7,6 +7,7 @@ upper()
 lower()
 type()
 input() -It will always return string.
+strip() -It will remove all the white spaces
 
 print(pow(2,2)) #Returns power
 
