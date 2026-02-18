@@ -1,4 +1,3 @@
-print("Which test type you want to run")
 
 test_type= input("Enter the test type: API, UI, Performance, Security")
 match test_type:
