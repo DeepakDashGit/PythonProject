@@ -1,4 +1,4 @@
-num = int(input("Enter a number to now the factorial: "))
+num = int(input("Enter a number to know the factorial: "))
 
 fact = 1
 
