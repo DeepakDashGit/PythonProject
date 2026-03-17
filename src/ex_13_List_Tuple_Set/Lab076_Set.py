@@ -1,5 +1,5 @@
 # Sets are used to store multiple items in a single variable
-# Sets are unordered, mutable and can contain duplicate
+# Sets are unordered,unindex, mutable and can contain duplicate
 # parenthesis - {}
 
 list1 = {1, 2, 3, 5, 3, 2}
@@ -12,6 +12,11 @@ print(set1)
 list3 = ["Best", False, 33.34, 57, False, "Best", 57]
 set2 = set(list3)
 print(set2)
+
+# Frozen set - A frozen set can't be changed after creation
+forz_set = frozenset([9, 5, 7, 8])
+print(forz_set)
+
 
 empty_set = set()
 print(empty_set)  # it will create empty set. sme as list and tuple
