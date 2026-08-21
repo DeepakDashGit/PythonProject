@@ -2,7 +2,7 @@ _age = 34
 
 print(_age+1)
 
-#123abc = 40  -> this an be done
+#123abc = 40  -> this can be done
 
 name = "Deepak"
 age = 34
